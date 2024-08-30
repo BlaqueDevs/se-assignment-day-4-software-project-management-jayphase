@@ -26,7 +26,7 @@ Advantages of Waterfall Methodology
 Disadvantages of Waterfall Methodology
 - Difficult to accommodate changes.
 - Testing occurs late in the process.
-- 
+  
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 When to Use Agile:
 Best for: Projects with changing requirements.
